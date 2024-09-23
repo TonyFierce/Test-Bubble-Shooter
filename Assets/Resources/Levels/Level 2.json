@@ -1,0 +1,18 @@
+{
+    "activeRows": 7,
+    "columns": 10,
+    "bubbleColors": [
+        "Green", "Green", "Green", "Purple", "Blue", "Yellow", "Blue", "Purple", "Purple", "Purple",
+        "Yellow", "Yellow", "Green", "Green", "Empty", "Yellow", "Purple", "Blue", "Yellow", "Purple",
+        "Blue", "Green", "Purple", "Blue", "Green", "Green", "Blue", "Yellow", "Yellow", "Green",
+        "Yellow", "Purple", "Yellow", "Empty", "Yellow", "Yellow", "Yellow", "Green", "Blue", "Blue",
+        "Green", "Green", "Yellow", "Purple", "Blue", "Purple", "Yellow", "Empty", "Yellow", "Blue",
+        "Blue", "Green", "Yellow", "Green", "Empty", "Purple", "Blue", "Yellow", "Purple", "Blue",
+        "Green", "Blue", "Yellow", "Purple", "Empty", "Purple", "Green", "Yellow", "Blue", "Green"
+    ],
+    "numberOfShootBubbles": 18,
+    "shootBubblesQueue": [
+        "Yellow", "Purple", "Green", "Blue", "Yellow", "Green", "Purple", "Blue", "Yellow", "Green",
+        "Purple", "Blue", "Yellow", "Green", "Purple", "Yellow", "Green", "Blue"
+    ]
+}
